@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Devendra Register for DevOps Learning1</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>Register for DevOps Learning1</h1>
+    <p>Please fill in this form to create an account, we posted this using Poll SCM option.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
